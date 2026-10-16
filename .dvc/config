@@ -1,0 +1,6 @@
+[core]
+    remote = fuentelocal
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "s3remote"']
+    url = s3://taller3-dvc-vickingo98-2026
